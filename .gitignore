@@ -16,6 +16,12 @@ benchmark_sonuc.txt
 LOCAL_OLLAMA_ROADMAP.md
 PADAWAN_DIAGNOSIS.md
 
+# Local GUI & Agent Customizations
+run_manus.py
+scripts/gui/
+.agents/
+config/config.toml.bak
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
