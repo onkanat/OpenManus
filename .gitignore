@@ -8,6 +8,12 @@ data/
 # Workspace
 workspace/
 
+# Local benchmark scripts and evaluations
+scripts/benchmarks/
+tests/local_eval/
+benchmark_runner.py
+benchmark_sonuc.txt
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
