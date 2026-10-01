@@ -13,6 +13,8 @@ scripts/benchmarks/
 tests/local_eval/
 benchmark_runner.py
 benchmark_sonuc.txt
+LOCAL_OLLAMA_ROADMAP.md
+PADAWAN_DIAGNOSIS.md
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
